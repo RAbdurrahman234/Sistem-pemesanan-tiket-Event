@@ -1,3 +1,4 @@
+#Sistem-Pemesanan-Tiket-Event 
 Sistem Pemesanan Tiket Event adalah aplikasi berbasis Python yang digunakan untuk mengelola data pemesanan tiket event. Aplikasi ini menerapkan konsep struktur data dan algoritma untuk melakukan pengelolaan data secara efisien, dengan penyimpanan data menggunakan file CSV sebagai database flat file. Pengguna dapat melakukan pemesanan, mencari, melihat, mengubah, menghapus, dan mengurutkan data tiket maupun pemesanan melalui antarmuka Command Line Interface (CLI).
 
 Tujuan Proyek:
